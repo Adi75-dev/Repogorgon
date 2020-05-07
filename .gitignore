@@ -39,3 +39,5 @@ Python/.mypy_cache/3.6/os/__init__.data.json
 Python/.mypy_cache/3.6/os/__init__.meta.json
 Python/.mypy_cache/3.6/os/path.data.json
 Python/.mypy_cache/3.6/os/path.meta.json
+Python/.python-version
+.DS_Store
